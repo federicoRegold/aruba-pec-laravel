@@ -2,7 +2,7 @@
 Laravel package to send PEC emails with Aruba
 
 ## Install
-```composer require tuonome/aruba-pec-mailer```
+```composer require regoldidealista/aruba-pec-laravel```
 
 ## Publish config
 ```php artisan vendor:publish --tag=aruba-mail-config```

@@ -1,5 +1,5 @@
 {
-  "name": "regoldidealista/aruba-pec-mailer",
+  "name": "regoldidealista/aruba-pec-laravel",
   "description": "Laravel package per inviare email tramite PEC Aruba",
   "type": "library",
   "license": "MIT",
