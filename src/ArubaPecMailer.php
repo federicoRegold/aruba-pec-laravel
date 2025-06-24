@@ -1,6 +1,6 @@
 <?php
 
-namespace Regoldidealista\ArubaPecMailer\Mail;
+namespace Regoldidealista\ArubaPecMailer;
 
 use Exception;
 use Illuminate\Mail\Mailable;
